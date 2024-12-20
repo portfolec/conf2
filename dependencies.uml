@@ -1,0 +1,9 @@
+@startuml
+package "nltk" {
+  "nltk" --> "click"
+  "nltk" --> "colorama"
+  "nltk" --> "joblib"
+  "nltk" --> "regex"
+  "nltk" --> "tqdm"
+}
+@enduml
