@@ -38,7 +38,7 @@ file.puml             # файл с выводом программы
 # 4. Запуск проекта
 ```bash
 pip install nltk        # имя пакета
-py hw2.py plantuml.jar nltk 1 https://github.com/nltk/nltk
+python hw2.py plantuml.jar nltk 1 https://github.com/nltk/nltk
 ```
 
 
